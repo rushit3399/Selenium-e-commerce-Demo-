@@ -22,4 +22,11 @@ public class gitDemo2 {
 		
 	}
 
+	public void Mobiletest()
+	{
+		System.out.println("Mobile demo 1");
+		System.out.println("Mobile demo 2");
+		System.out.println("Mobile demo 3");
+		
+	}
 }
